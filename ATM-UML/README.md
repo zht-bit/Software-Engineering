@@ -34,6 +34,7 @@
 5. 存款机。
 
 **协作图如下：**
+
 ![5.协作图](https://github.com/yangweida123/Software-Engineering-1/blob/430e782b6c48971b7131fa38769dda94936357bd/ATM-UML/5.%E5%8D%8F%E4%BD%9C%E5%9B%BE.png)
 
 ### 7. 顺序图
@@ -60,6 +61,7 @@
 在本系统中，我们可以对银行账户、信用系统、客户、ATM屏幕、ATM取款机、ATM键盘、银行职员、读卡器和数据库服务器分别创建对应的构件进行映射。
 
 **构件图如下：**
+
 ![8.构件图](https://github.com/yangweida123/Software-Engineering-1/blob/430e782b6c48971b7131fa38769dda94936357bd/ATM-UML/8.%E6%9E%84%E4%BB%B6%E5%9B%BE.png)
 
 ### 9 .部署图
@@ -73,4 +75,5 @@ ATM系统采用三层结构，分别针对数据库、地区ATM服务器和客�
 ATM自动取款机系统的部署图描绘的是系统节点上运行资源的安排。包括了四个节点，分别是：ATM客户端、地区ATM服务器、银行数据库服务器和打印机。
 
 **部署图如下：**
+
 ![9.部署图](https://github.com/yangweida123/Software-Engineering-1/blob/430e782b6c48971b7131fa38769dda94936357bd/ATM-UML/9.%E9%83%A8%E7%BD%B2%E5%9B%BE.png)
