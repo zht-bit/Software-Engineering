@@ -6,6 +6,7 @@
 添加信息、维护硬件设备、协助用户修改密码、收取费用
 
 **用例图如下**
+
 ![1.用例图](https://github.com/FiOQA/Software-Engineering/blob/main/ATM-UML/1.%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
 ### 4. 活动图
 活动图本质上是一种流程图，它描述了从活动到活动到控制流。
@@ -15,6 +16,7 @@
 3. 如果能够得到批准，用户需要接受信用条件，签发账户。
 
 **活动图如下**
+
 ![4.活动图](https://github.com/FiOQA/Software-Engineering/blob/main/ATM-UML/4.%E6%B4%BB%E5%8A%A8%E5%9B%BE.png)
 ### 7. 顺序图
 顺序图横轴代表对象，消息沿纵轴按时间顺序排列，其中对象的生命线是一条垂直的虚线，表示一个对象在一段时间内存在。
@@ -29,4 +31,5 @@
 + 银行账户退卡给读卡机，用户从读卡机取卡。
 
 **顺序图如下**
+
 ![7.顺序图](https://github.com/FiOQA/Software-Engineering/blob/main/ATM-UML/7.%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
