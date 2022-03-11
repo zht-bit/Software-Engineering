@@ -15,12 +15,15 @@
 
 **类图如下**
 
+![2.类图](https://github.com/zht-bit/Software-Engineering/blob/main/ATM-UML/2.%E7%B1%BB%E5%9B%BE.png)
 
 ### 3.对象图
 
 对象图与类图类似，唯一不同之处在于显示的是实例，而非具体的类
 
 **对象图如下**
+
+![3.对象图](https://github.com/zht-bit/Software-Engineering/blob/main/ATM-UML/3.%E5%AF%B9%E8%B1%A1%E5%9B%BE.png)
 
 ### 4. 活动图
 活动图本质上是一种流程图，它描述了从活动到活动到控制流。
@@ -56,6 +59,8 @@
 这里描述了客户在atm机进行操作时的状态。
 
 **状态图如下**
+
+![6.状态图](https://github.com/zht-bit/Software-Engineering/blob/main/ATM-UML/6.%E7%8A%B6%E6%80%81%E5%9B%BE.png)
 
 ### 7. 顺序图
 顺序图横轴代表对象，消息沿纵轴按时间顺序排列，其中对象的生命线是一条垂直的虚线，表示一个对象在一段时间内存在。
