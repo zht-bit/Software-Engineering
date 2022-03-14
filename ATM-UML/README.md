@@ -7,7 +7,7 @@
 
 **用例图如下**
 
-![1.用例图](https://github.com/FiOQA/Software-Engineering/blob/main/ATM-UML/1.%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
+![1.用例图](./1.%E7%94%A8%E4%BE%8B%E5%9B%BE.png)
 
 ### 2.类图
 
@@ -15,7 +15,7 @@
 
 **类图如下**
 
-![2.类图](https://github.com/zht-bit/Software-Engineering/blob/main/ATM-UML/2.%E7%B1%BB%E5%9B%BE.png)
+![2.类图](./2.%E7%B1%BB%E5%9B%BE.png)
 
 ### 3.对象图
 
@@ -23,7 +23,7 @@
 
 **对象图如下**
 
-![3.对象图](https://github.com/zht-bit/Software-Engineering/blob/main/ATM-UML/3.%E5%AF%B9%E8%B1%A1%E5%9B%BE.png)
+![3.对象图](./3.%E5%AF%B9%E8%B1%A1%E5%9B%BE.png)
 
 ### 4. 活动图
 活动图本质上是一种流程图，它描述了从活动到活动到控制流。
@@ -34,7 +34,7 @@
 
 **活动图如下**
 
-![4.活动图](https://github.com/FiOQA/Software-Engineering/blob/main/ATM-UML/4.%E6%B4%BB%E5%8A%A8%E5%9B%BE.png)
+![4.活动图](./4.%E6%B4%BB%E5%8A%A8%E5%9B%BE.png)
 
 ### 5. 协作图
 
@@ -52,7 +52,7 @@
 
 **协作图如下：**
 
-![5.协作图](https://github.com/yangweida123/Software-Engineering-1/blob/430e782b6c48971b7131fa38769dda94936357bd/ATM-UML/5.%E5%8D%8F%E4%BD%9C%E5%9B%BE.png)
+![5.协作图](./5.%E5%8D%8F%E4%BD%9C%E5%9B%BE.png)
 
 ### 6.状态图
 
@@ -60,7 +60,7 @@
 
 **状态图如下**
 
-![6.状态图](https://github.com/zht-bit/Software-Engineering/blob/main/ATM-UML/6.%E7%8A%B6%E6%80%81%E5%9B%BE.png)
+![6.状态图](./6.%E7%8A%B6%E6%80%81%E5%9B%BE.png)
 
 ### 7. 顺序图
 顺序图横轴代表对象，消息沿纵轴按时间顺序排列，其中对象的生命线是一条垂直的虚线，表示一个对象在一段时间内存在。
@@ -76,7 +76,7 @@
 
 **顺序图如下**
 
-![7.顺序图](https://github.com/FiOQA/Software-Engineering/blob/main/ATM-UML/7.%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
+![7.顺序图](./7.%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
 
 ### 8. 构件图
 
@@ -87,7 +87,7 @@
 
 **构件图如下：**
 
-![8.构件图](https://github.com/yangweida123/Software-Engineering-1/blob/430e782b6c48971b7131fa38769dda94936357bd/ATM-UML/8.%E6%9E%84%E4%BB%B6%E5%9B%BE.png)
+![8.构件图](./8.%E6%9E%84%E4%BB%B6%E5%9B%BE.png)
 
 ### 9 .部署图
 
@@ -101,4 +101,4 @@ ATM自动取款机系统的部署图描绘的是系统节点上运行资源的�
 
 **部署图如下：**
 
-![9.部署图](https://github.com/yangweida123/Software-Engineering-1/blob/430e782b6c48971b7131fa38769dda94936357bd/ATM-UML/9.%E9%83%A8%E7%BD%B2%E5%9B%BE.png)
+![9.部署图](./9.%E9%83%A8%E7%BD%B2%E5%9B%BE.png)
