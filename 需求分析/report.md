@@ -82,7 +82,7 @@
 
 瀑布模型也称之为生命周期法，是结构方法中最常用的开发模型，其讲究的是从需求获取到开发到测试像瀑布样顺流而下。瀑布模型的开发构成如下图：
 
-![watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2E3Njc4MTU2NjI=,size_16,color_FFFFFF,t_70#pic_center](.\watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2E3Njc4MTU2NjI=,size_16,color_FFFFFF,t_70#pic_center.png)
+![watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2E3Njc4MTU2NjI=,size_16,color_FFFFFF,t_70#pic_center](./watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2E3Njc4MTU2NjI=,size_16,color_FFFFFF,t_70#pic_center.png)
 
 ## 质量保证、验证和确认准则
 
@@ -127,15 +127,15 @@
 
 Boehm:
 
-![img](.\watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NpZWxfWQ==,size_16,color_FFFFFF,t_70.jpeg)
+![img](./watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NpZWxfWQ==,size_16,color_FFFFFF,t_70.jpeg)
 
  McCall:
 
-![img](.\watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NpZWxfWQ==,size_16,color_FFFFFF,t_70-16494075642532.jpeg)
+![img](./watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NpZWxfWQ==,size_16,color_FFFFFF,t_70-16494075642532.jpeg)
 
  ISO:
 
-![img](.\watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NpZWxfWQ==,size_16,color_FFFFFF,t_70-16494075703194.jpeg)
+![img](./watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NpZWxfWQ==,size_16,color_FFFFFF,t_70-16494075703194.jpeg)
 
 ## 分析场景
 
@@ -145,7 +145,7 @@ Boehm:
 
 在移动端和PC端的查询播放业务过程相同。这里使用同一张图来表示：
 
-![player](.\player.png)
+![player](./player.png)
 
 ### 功能实例化
 
